@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehul Agarwal</h1>
-<h3 align="center">App and Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 💬 Ask me about **Flutter, MERN, Firebase**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **mehu2003@gmail.com**
 
